@@ -21,7 +21,9 @@ Speaking from my experience, I genuinely don't believe I would be where I am tod
 
 ## What are Microsoft Certifications?
 
-Now, if you are sat there thinking, “Great, but I still don’t know what they are,” well let’s break it down. First and foremost, Microsoft credentials are essentially an industry-recognised certificate that validates your level of knowledge and understanding in a given topic area. For the purpose of this blog series, I’ll keep the focus on Azure, but there are a number of other Microsoft technologies you can become certified in, from Azure to Power Platform or even Microsoft Dynamics. Certifications also tend to hold a certain level of credibility and provide a benchmark of your knowledge and skillset.
+Now, if you are sat there thinking, “Great, but I still don’t know what they are,” well let’s break it down. First and foremost, Microsoft credentials are essentially an industry-recognised certificate that validates your level of knowledge and understanding in a given topic area.
+
+For the purpose of this blog series, I’ll keep the focus on Azure, but there are a number of other Microsoft technologies you can become certified in, from Azure to Power Platform or even Microsoft Dynamics but whatever your choice of certification, there is no denying they tend to hold a certain level of credibility and provide a benchmark for someones knowledge and skillset.
 
 They also are a great way to keep up-to-date on the latest changes, for ‘Associate’ & ‘Expert’ level certifications (more on those below) they require an annual renewal assessment (20 minutes unproctured) that's purpose is to ensure you know any key changes in your chosen technology area.
 
