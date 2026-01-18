@@ -33,7 +33,7 @@ Now there are two different types of certification that Microsoft offer:
 
 **1\. The "Full" Microsoft Certifications** This is the main one—the badge you’ll see posted across professional social media profiles. Think **AZ-900: Azure Fundamentals** or **AZ-104: Azure Administrator**. These are generally "Role-Based" (aimed at specific job roles like Administrators or Architects) and are rigorously tested via proctored exams.
 
-They are also a great way to keep up-to-date. For **Associate** and **Expert** level certifications, Microsoft requires an **annual renewal assessment**. This is a free, unproctored (meaning no one is watching you), short assessment designed to ensure you are up to speed with the latest changes in that technology.
+They are also a great way to keep up-to-date. For **Associate** and **Expert** level certifications, Microsoft requires an [**annual renewal assessment**](https://learn.microsoft.com/en-us/credentials/certifications/renew-your-microsoft-certification). This is a free, unproctored (meaning no one is watching you), short assessment designed to ensure you are up to speed with the latest changes in that technology.
 
 **2\. Microsoft Applied Skills** The other type of credential is the [**Microsoft Applied Skills**](https://arch-center.azureedge.net/Credentials/microsoft-applied-skills-poster.pdf). These are relatively new and tailored towards practical, hands-on learning. They validate that you can solve a *specific* problem (like "Secure storage for Azure Files") rather than validating a whole job role.
 
