@@ -9,46 +9,66 @@ tags: microsoft, azure, certification, microsoft365
 
 ---
 
-The new year for a lot of people marks the start of something new, something we want to improve on or achieve in the year ahead, be that the diet you start every year or maybe learning a new language. For this months (long overdue) entry, and in keeping with the spirit of starting a new, I’ve decided for this the first entry of 2026 to cover the ‘*How to..*’ of Microsoft Certifications: what are they and how do you get certified?
+The New Year for a lot of people marks the start of something new, something we want to improve on or achieve in the year ahead, be that the diet you start every year or maybe learning a new language. For this month's (long overdue) entry, and in keeping with the spirit of starting anew, I’ve decided to cover the ‘How to..’ of Microsoft Certifications: what are they and how do you get certified?
 
-For those who work in the technical space, certifications are a great way to highlight and show off your skills to potential employers or even current ones, and while Microsoft themselves have an assortment of resources and information regarding ‘Getting Certified’ for anyone new to the certification process it can be a bit confusing so I wanted to give my own take on the certification process and hopefully help someone out there start their own certification journey.
+For those who work in the technical space, certifications are a great way to highlight and show off your skills. However, while Microsoft themselves have an assortment of resources regarding ‘Getting Certified,’ for anyone new to the process it can be a bit confusing. I wanted to give my own take on the process and hopefully help someone out there start their own certification journey.
 
 ## Why get Microsoft Certified?
 
-You can read up on Microsoft’s learn page on ‘[Why getting certified?](https://learn.microsoft.com/en-us/credentials/certifications/posts/microsoft-learn-why-get-certified)’ is important. These reasons include career progression and boosts to salary that are great in the long term, especially if you progress into the more advanced ‘Associate’ and ‘Expert’ level certifications (more on those later). However, if you are new to the IT industry or wanting to pivot into the cloud space as an existing engineer, getting a Microsoft certification—even if it’s just the fundamental level exams—can be a great way to stand out to future employers or even your current one, you'd be surprised at how many organisations still use on-prem (physical) infrastructure and haven't done any sort of cloud/ hybrid setup.
+You can read up on Microsoft’s learn page on ‘ is important. These reasons include career progression and boosts to salary that are great in the long term, especially if you progress into the more advanced ‘Associate’ and ‘Expert’ level certifications (more on those later). However, if you are new to the IT industry or wanting to pivot into the cloud space as an existing engineer, getting a Microsoft certification—even if it’s just the fundamental level exams—can be a great way to stand out to future employers or even your current one, you'd be surprised at how many organisations still use on-prem (physical) infrastructure and haven't done any sort of cloud/ hybrid setup.
+
+You can read up on Microsoft’s learn page on [Why getting certified?](https://learn.microsoft.com/en-us/credentials/certifications/posts/microsoft-learn-why-get-certified) is important. These reasons include career progression and boosts to salary that are great in the long term, especially if you progress into the more advanced ‘Associate’ and ‘Expert’ level certifications.
+
+However, if you are new to the IT industry or wanting to pivot into the cloud space as an existing engineer, getting a Microsoft certification—even if it’s just the fundamental level exams—can be a great way to stand out. You'd be surprised at how many organisations still use on-prem (physical) infrastructure and haven't done any sort of cloud/hybrid setup.
 
 Speaking from my experience, I genuinely don't believe I would be where I am today without having done the **AZ-900: Azure Fundamentals**. Taking that exam was the catalyst for my transition to working so heavily in the Azure space; the learning material was fresh, it was interesting, and I genuinely enjoyed learning something completely new and it inspired me to move more into the cloud space.
 
 ## What are Microsoft Certifications?
 
-Now, if you are sat there thinking, “Great, but I still don’t know what they are,” well let’s break it down. First and foremost, Microsoft credentials are essentially an industry-recognised certificate that validates your level of knowledge and understanding in a given topic area.
+Now, if you are sitting there thinking, “Great, but I still don’t know what they are,” let’s break it down.
 
-For the purpose of this blog series, I’ll keep the focus on Azure, but there are a number of other Microsoft technologies you can become certified in, from Azure to Power Platform or even Microsoft Dynamics but whatever your choice of certification, there is no denying they tend to hold a certain level of credibility and provide a benchmark for someones knowledge and skillset.
+First and foremost, a Microsoft credential is essentially an industry-recognised stamp of approval that validates your level of knowledge and understanding in a given topic area. For this blog series, I’ll keep the focus on **Azure**, but you can become certified in a range of Microsoft technologies—from the Power Platform to Microsoft Dynamics.
 
-They also are a great way to keep up-to-date on the latest changes, for ‘Associate’ & ‘Expert’ level certifications (more on those below) they require an annual renewal assessment (20 minutes unproctured) that's purpose is to ensure you know any key changes in your chosen technology area.
+Now there are two different types of certification that Microsoft offer:
 
-However, there is a slight twist. There are two types of credentials that Microsoft offer. The main certification of the two—the one you will see across professional social media sites—are the ‘full’ Microsoft Certifications. Think **AZ-900: Azure Fundamentals** or **AZ-104: Azure Administrator** if you are familiar with those. If not, you can see the complete certification list by visiting the [Become Microsoft Certified](https://arch-center.azureedge.net/Credentials/Certification-Poster_en-us.pdf) poster page for the complete collection.
+**1\. The "Full" Microsoft Certifications** This is the main one—the badge you’ll see posted across professional social media profiles. Think **AZ-900: Azure Fundamentals** or **AZ-104: Azure Administrator**. These are generally "Role-Based" (aimed at specific job roles like Administrators or Architects) and are rigorously tested via proctored exams.
 
-The other type of credential that Microsoft offer is the [Microsoft Applied Skills](https://arch-center.azureedge.net/Credentials/microsoft-applied-skills-poster.pdf), These are a relatively new type of credential tailored towards practical, hands-on learning as a way to validate skills before taking the full certification exams mentioned above. They’re not proctored (meaning they’re not monitored by an invigilator) like the primary certification exams are, as they are generally aimed towards students, educators, or those looking to change careers. We won’t cover them in much detail here, but it’s important to know they exist as they can be a great way to get some hands-on experience.
+They are also a great way to keep up-to-date. For **Associate** and **Expert** level certifications, Microsoft requires an **annual renewal assessment**. This is a free, unproctored (meaning no one is watching you), short assessment designed to ensure you are up to speed with the latest changes in that technology.
 
-### Breaking down the different certifications
+**2\. Microsoft Applied Skills** The other type of credential is the [**Microsoft Applied Skills**](https://arch-center.azureedge.net/Credentials/microsoft-applied-skills-poster.pdf). These are relatively new and tailored towards practical, hands-on learning. They validate that you can solve a *specific* problem (like "Secure storage for Azure Files") rather than validating a whole job role.
 
-You might have noticed that all of the Microsoft certifications from the [Become Microsoft Certified](https://arch-center.azureedge.net/Credentials/Certification-Poster_en-us.pdf) poster are broken up into different categories, these are as follows:
+Crucially, these are **not proctored** (meaning they are not monitored by an invigilator). Instead, they are lab-based assessments where you complete real tasks in a virtual environment primarily aimed at educators and students. We won’t cover them in much detail here, but they are worth knowing about if you want to try some hands-on.
 
-**Fundamentals** - These are going to be as the name suggests, the entry level certifications. If you are new to the Microsoft Cloud, these are an excellent place to start your certification journey. These certifications are designed to help provide you with a high-level overview of the technologies covered with a base level of understanding, these do not require any prior knowledge or experience.
+## Breaking down the different certifications
 
-Tip: *While the Fundamentals are completely optional, in my opinion they’re absolutely worth doing. They don’t require any sort of renewal process so once you have them you keep them for life and they look excellent on a CV*
+Focusing on the "Full" certifications, if you look at the [**Become Microsoft Certified**](https://arch-center.azureedge.net/Credentials/Certification-Poster_en-us.pdf) poster, you might notice that they are broken up into distinct categories. It isn't just a random list; there is a structure to the madness. Here is how they stack up:
 
-**Role-Based** – The next step up from the Fundamentals are the **Role-Based** certifications. These are split into two distinct tiers: Associate and Expert.
+**1\. Fundamentals** As the name suggests, these are the entry-level certifications (look for the "900" series exams). If you are new to the Microsoft Cloud, this is an excellent place to start. They are designed to provide a high-level overview of the technology without requiring deep technical prior knowledge.
 
-* **Associate** – These are your ‘*Intermediate*’ level exams. They test your practical, hands-on knowledge of the tools and services covered in the fundamental exams. It is generally recommended that you have **at least six months** of hands-on experience before attempting these exams but I would personally recommend around twelve months with a good amount of hands-on exposure.
+> While the Fundamental exams are optional, in my opinion, they are absolutely worth doing. Unlike the higher tiers, they **do not require renewal**, meaning once you earn them, you keep them for life. They look excellent on a CV and show you have a solid grasp of the core concepts.
+
+**2\. Role-Based** The next step up is the "Role-Based" tier. These are the bread and butter of IT professionals and are split into two distinct levels:
+
+* **Associate (Intermediate):** These exams test your practical, hands-on knowledge of tools and services. Microsoft generally recommends six months of experience, but I would personally recommend around **12 months** of hands-on exposure to really feel comfortable.
     
-* **Expert** – These are your ‘*Advanced*’ level exams. They test your ability to translate practical skills into high-level technical designs, aligning them with business requirements. The focus shifts heavily towards areas such as cost vs. performance, redundancy, and security. It is recommended that you have around 2 - 3 years of experience before taking these exams. Most if not all Expert level certifications generally have a requirement that you must have an associate level certification before you earn the expert level. For example the AZ-305 (Azure Expert) you must hold the AZ-104 certification, taking the AZ-305 on its own will not grant you the Azure Expert certification.
+* **Expert (Advanced):** These test your ability to translate practical skills into high-level technical designs. The focus shifts heavily towards architecture pillars like cost vs. performance, redundancy, and security. It is recommended to have **2–3 years** of experience here.
     
+    * *The Catch:* Most Expert certifications have a prerequisite. For example, to earn the **Microsoft Certified: Azure Solutions Architect Expert**, passing the **AZ-305** exam isn't enough; you must *also* hold the **AZ-104 (Administrator)** certification.
+        
 
-**Speciality** - As the name suggests, these certifications are focused on specific use cases or solutions within the Microsoft cloud for those who want to focus on a particular technology such as solutions like Azure AZ-140 - Azure Virtual Desktop (AVD)
+**3\. Specialty** As the name implies, these are focused on specific niche solutions within the cloud. They are perfect for those who want to deep-dive into a particular technology, such as **AZ-140: Azure Virtual Desktop (AVD)**.
 
-**Business** - These are completely new and have only been introduced as of November 2025 and are at time of writing still in beta and are certifications aimed towards business professionals for AI tools in areas like Marketing, Project Management or Customer Service for productivity and insights.
+**4\. Business (New!)** These are the new kids on the block, introduced recently in **November 2025**. At the time of writing, many are still in beta. These are aimed squarely at business professionals rather than engineers, focusing on using AI tools in areas like Marketing, Project Management, or Customer Service.
+
+### What Certification Level is right for you?
+
+| Level | Focus | Recommended Experience | Renewal Required |
+| --- | --- | --- | --- |
+| Fundamentals | Concepts & Terminology | None (Beginner) | No (Lifetime) |
+| Associate | Implementation & Configuration | 6 - 12 Months | Yes (Annual) |
+| Expert | Design & Architecture | 2 - 3 years | Yes (Annual) |
+| Speciality | Niche Technical Scenarios | Deep Technical Experience | Yes (Annual) |
+| Business | AI & Productivity Applications | Professional Context | Varies by Exam |
 
 ## How Do You Get Certified?
 
@@ -64,7 +84,7 @@ For most certifications there are a lot of resources you can use, both official 
     
 * **Video Courses:** As the name suggests, these are generally full video series on the course material with demos and visuals to help you learn. You can use reputable platforms like **Udemy** or **Pluralsight**, that are great for east to digest even on the commute to work every morning. I recommended going with instructors or courses from high rated trainers such as **Scott Duffy** or [John Savill](https://www.youtube.com/@NTFAQGuy) on **YouTube** who offers great study crams across a number of Microsoft certifications.
     
-* [Hands-on Labs:](https://www.youtube.com/@NTFAQGuy) If you're like me, I generally learn more by ‘doing something’ rather than just reading about it so rather than just reading how to create an Azure Virtual Desktop, go create one and try to connect it and use it. As someone who has worked in Azure for four, going on five years hands-on experience is crucial especially if you want to tackle those Associate and Expert level certifications, I created a guide in my [Getting Started with Azure](https://a-z-ure.blog/g-is-for-getting-started-with-azure) on how to setup your own subscription for practice at home without breaking the bank.
+* **Hands-on Labs**: If you're like me, I generally learn more by ‘doing something’ rather than just reading about it so rather than just reading how to create an Azure Virtual Desktop, go create one and try to connect it and use it. As someone who has worked in Azure for four, going on five years hands-on experience is crucial especially if you want to tackle those Associate and Expert level certifications, I created a guide in my [Getting Started with Azure](https://a-z-ure.blog/g-is-for-getting-started-with-azure) on how to setup your own subscription for practice at home without breaking the bank.
     
 
 ### Stage 2: Practice Exams
@@ -93,7 +113,7 @@ Each exam study practice platform will have its own recommended threshold; on th
 
 So, you’ve done all your studying and now you're ready to take the exam but how do you schedule it? Well, if you haven’t already done so then the first step is setup your [Microsoft Learn Profile](https://learn.microsoft.com/profile) as you cannot take any exam without one, I covered the process on how to do this on [Getting started with Azure](https://a-z-ure.blog/g-is-for-getting-started-with-azure#heading-so-how-do-i-start), if you have done this step then head to the certification exam page of your choice, in this example we’ll use the [AZ-900: Azure Fundamentals](https://learn.microsoft.com/en-gb/credentials/certifications/azure-fundamentals/?WT.mc_id=certposter_poster-wwl&practice-assessment-type=certification). From the exam page, scroll down until you find the ‘Schedule exam’ section as per the screenshot below.
 
-***Note***\*: Exam prices will vary depending on region and level, a typical range is around\* £64 - £106 or your regional equivalent at the time of writing with role-based exams on the higher end of the scale.
+> Exam prices will vary depending on region and level, a typical range is around\* £64 - £106 or your regional equivalent at the time of writing with role-based exams on the higher end of the scale.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1766440837967/5aa6629b-759d-4d27-8e40-f76a23998b6e.png align="center")
 
