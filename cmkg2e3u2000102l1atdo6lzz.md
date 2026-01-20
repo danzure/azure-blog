@@ -5,7 +5,7 @@ datePublished: Thu Jan 15 2026 23:12:13 GMT+0000 (Coordinated Universal Time)
 cuid: cmkg2e3u2000102l1atdo6lzz
 slug: how-to-become-microsoft-certified
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766440333802/61692d63-1a21-4f19-8f7e-39667f044500.png
-tags: microsoft, azure, certification, microsoft365
+tags: cloud, microsoft, azure, certification, microsoft365
 
 ---
 
